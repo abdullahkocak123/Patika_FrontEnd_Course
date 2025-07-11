@@ -1,4 +1,4 @@
-# Patika.dev Frontend Development Course
+# Patika+ Frontend Developer Program
 
 This repository contains all the exercises, mini-projects, and homework assignments I completed as part of the Patika+ Frontend Developer Program.
 
